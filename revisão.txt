@@ -1,0 +1,3 @@
+Váriáveis: "algo" que pode assumir quaquer valor;
+Prinipais tipos: string, integer, float, char; boleana
+Constante: algo que assume valor único.
